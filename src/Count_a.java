@@ -8,7 +8,7 @@ public class Count_a {
 
 
         System.out.println("Please write any sentence to count the number of a's in it");
-        String sentence = scanner.next();
+        String sentence = scanner.nextLine();
 
 
         for (int i = 0; i < sentence.length(); i++)
