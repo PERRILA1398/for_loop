@@ -1,6 +1,6 @@
 import java.util.Scanner; //importing java scanner
 
-public class Print_Div //public class
+public class Div_3and5 //public class
 {
     //new scanner object in java class
     Scanner scanner = new Scanner(System.in);  //system.in gets input from the user
@@ -36,8 +36,8 @@ public class Print_Div //public class
     public static void main (String []args) //calling in main static method
        {
 
-        Print_Div print_div = new Print_Div(); //new public class object
-        print_div.Divide(); // nonstatic class to static main method
+        Div_3and5 div3and5 = new Div_3and5(); //new public class object
+        div3and5.Divide(); // nonstatic class to static main method
 
 
        }

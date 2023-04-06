@@ -22,7 +22,7 @@ public class Factorial_Value //public class
             new_value = i * new_value; //1*1=1, 1*2=2, 2*3=6, 4*6=24, 5*24=120 .....until user input
 
 
-        }System.out.println(new_value); // printing out the output
+        }System.out.println(new_value); // printing out the output, factorial value of user input
 
         }
 
